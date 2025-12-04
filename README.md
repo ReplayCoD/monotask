@@ -20,4 +20,4 @@ Klassische To-Do-Apps überfordern mit endlosen Listen. Monotask zeigt bewusst n
 
 
 ## Entstehung
-Entwickelt im Rahmen des [Hackathon3.0 von Kevon Chromik] (Dezember 2025)
+Entwickelt im Rahmen des Hackathon3.0 von Kevon Chromik (Dezember 2025)
